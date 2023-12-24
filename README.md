@@ -1,10 +1,10 @@
-# [Ansible role artifactory](#artifactory)
+# Ansible role [artifactory](https://galaxy.ansible.com/ui/standalone/roles/buluma/artifactory/documentation)
 
 Install and configure artifactory on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-artifactory/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-artifactory/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-artifactory/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-artifactory/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-artifactory.svg)](https://github.com/buluma/ansible-role-artifactory/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/artifactory)](https://galaxy.ansible.com/ui/standalone/roles/buluma/artifactory/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -97,13 +97,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-artifactory/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-artifactory/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)

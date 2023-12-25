@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-artifactory/tree/HEAD)
+## [v0.1.0](https://github.com/buluma/ansible-role-artifactory/tree/v0.1.0) (2023-12-24)
 
-[Full Changelog](https://github.com/buluma/ansible-role-artifactory/compare/12184ce9534ea7885ababb0a465b2d8a8ba853fc...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-artifactory/compare/12184ce9534ea7885ababb0a465b2d8a8ba853fc...v0.1.0)
 
 **Merged pull requests:**
 
